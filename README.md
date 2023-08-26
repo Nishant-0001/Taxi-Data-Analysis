@@ -1,16 +1,35 @@
-# Taxi-Data-Analysis
+Taxi-Data-Analysis Project
+Architecture
+![architecture](https://github.com/Nishant-0001/Taxi-Data-Analysis/assets/88822119/8a0fc255-dc02-4d03-9f18-d2cf0e0166ff)
 
-This is an end to end Project.
+Technology Used
+Programming Language - Python
+
+Google Cloud Platform
+
+Google Storage
+Compute Instance
+BigQuery
+Looker Studio
+Mage AI
+This is an end-to-end project for analyzing taxi data.
+
+Project Overview
+...
+
+Technologies Used
+Programming Language: Python is used for scripting and data manipulation.
+
+Google Cloud Platform: Various services from the Google Cloud Platform are utilized throughout the project:
+
+Google Storage: Used to store the raw and transformed data files.
+Compute Instance (VM): A Google Compute Engine VM instance is set up to run the Mage AI tool for data transformation.
+BigQuery: Used as the data warehouse for storing and querying the transformed data.
+Looker Studio: Connected to BigQuery to create visualizations and dashboards.
+Mage AI: A modern data pipeline tool that you've used to build and execute the data transformation pipeline. It's installed on a VM instance. Learn more on the Mage AI GitHub Repository.
+
+Data Model
+![data_model](https://github.com/Nishant-0001/Taxi-Data-Analysis/assets/88822119/063d3d56-1470-4403-b3ad-0c08b774d678)
 
 
-
-In this Project  I have made a Data Pipline to Transfrom our dataset 
-Then upload it to Big Query for Analytics. 
-I uploaded data file on stoarge bucket and then transformed data  using python 
-For data pipline i have used Mage AI a tool for building data pipline 
-I have installed it on VM instance and did all the tarnsformation and loading to big query from Mage AI.
-I uploaded this transformed data on big query 
-Then I connected it to Looker studio for bulding Dashboard and Finally used this data to Make a Dashboard from data.
-
-
-In this project I have used Google cloud Platform tools like Cloud storage Bucket,Compute engine VM instance,Mage AI(Installed it on linux),BigQuery,Looker Studio.
+Contribution
