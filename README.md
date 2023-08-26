@@ -34,5 +34,7 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
 
 ## Dash board
-(https://lookerstudio.google.com/u/4/reporting/ff4956cd-b4d9-41ee-ba7d-eec9372644b7/page/QZyYD)
+## https://lookerstudio.google.com/u/4/reporting/ff4956cd-b4d9-41ee-ba7d-eec9372644b7/page/QZyYD
+
+<img src="Dashboard.png">
 
