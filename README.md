@@ -32,10 +32,11 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
+![data_model](https://github.com/Nishant-0001/Taxi-Data-Analysis/assets/88822119/5fe5fa38-fbfe-4c25-ab68-c5f6ae407f19)
 
 ## Dash board
 ## https://lookerstudio.google.com/u/4/reporting/ff4956cd-b4d9-41ee-ba7d-eec9372644b7/page/QZyYD
 
-<img src="Dashboard.png">
+![Dashboard](https://github.com/Nishant-0001/Taxi-Data-Analysis/assets/88822119/0edb0a62-1bb5-41ab-9169-743cd04272b3)
+
 
