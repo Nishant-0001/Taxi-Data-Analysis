@@ -5,7 +5,8 @@
 The goal of this project is to perform data analytics on Taxi data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="architecture.jpg">
+
+![architecture](https://github.com/Nishant-0001/Taxi-Data-Analysis/assets/88822119/dc4497d0-e979-4fab-b477-e08903e437bb)
 
 ## Technology Used
 - Programming Language - Python
